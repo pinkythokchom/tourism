@@ -1,0 +1,109 @@
+/*Marjing*/
+body{
+    background-color:lightblue;
+    width: 375px;
+}
+header{
+    background-color: white;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.479);
+    width: 375px;
+}
+p.welcome{
+    text-align: center;
+    font-size: small;
+}
+div.title{
+    background-color:  rgb(240, 242, 247);
+    width: 363px;
+    text-align:justify;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.479);
+}
+
+p.Description{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:justify;
+    padding-left: 4px;
+    padding-right: 5px;
+    line-height: 17px;
+}
+div.construction{
+    background-color:  rgb(240, 242, 247);
+    width: 365px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.479);
+    text-align:justify;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+}
+p.construction{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:justify;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-indent: 50px;
+    line-height: 17px;
+    
+}
+#moreText {
+    display: none;
+}
+div.image{
+    border-color: whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.479);
+    width: 375px;
+}
+div.inauguration{
+    background-color:  rgb(240, 242, 247);
+    width: 365px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.479);
+    text-align:justify;
+    padding-left: 4px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    line-height: 17px;
+}
+p.inauguration{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    line-height: 18px;
+    text-indent: 50px;
+}
+#textButton{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-color: lightgray;
+    border-style:solid;
+    background-color: white;
+}
+div.significance{
+    background-color: rgb(240, 242, 247);
+    width: 365px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.479);
+    text-align:justify;
+    padding-left: 4px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    line-height: 17px;
+}
+p.significance{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    line-height: 18px;
+    text-indent: 50px;
+}
