@@ -16,10 +16,6 @@ app.get("/hijagang", function(req, res){
     res.render('hijagang');
 })
 
-app.get("/luphounung", function(req, res){
-  res.render('luphounung');
-})
-
 app.get("/marjing", function(req, res){
   res.render('marjing');
 })
